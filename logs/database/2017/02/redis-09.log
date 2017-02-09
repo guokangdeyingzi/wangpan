@@ -1,0 +1,36 @@
+===20170209-092031,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170209-092031,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20170209-092031,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170209-092311,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170209-092311,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20170209-092311,rop_string_set[1054]=== [-][GMS_REDIS]SET FOO BAR error 
+
+===20170209-092311,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170209-092328,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170209-092328,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20170209-092328,rop_string_set[1054]=== [-][GMS_REDIS]SET FOO BAR error 
+
+===20170209-092328,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170209-092405,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170209-092405,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20170209-092405,rop_string_set[1060]=== set FOO BAR succ!
+===20170209-092405,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170209-093031,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170209-093031,rop_test_reply_type[314]=== [+][GMS_REDIS]=REDIS_REPLY_STATUS=[string] use reply->str to get data, reply->len get data len
+
+===20170209-093031,rop_string_set[1060]=== set FOO BAR succ!
+===20170209-093031,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
